@@ -1,7 +1,9 @@
+<!---
 ---
 title: Tervetuloa sivuilleni!
 description: Tämä on GitHub Pages -sivuni
 ---
+--->
 <link rel="stylesheet" href="/assets/css/custom.css">
 
 <div class="lang-links">
