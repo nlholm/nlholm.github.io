@@ -2,8 +2,9 @@
 title: Welcome to my page!
 description: This is my GitHub Pages page
 ---
+<link rel="stylesheet" href="/assets/css/custom.css">
 
-[🇫🇮 Suomi](/) | [🇬🇧 English](/en)
+[Suomeksi](/) | [In English](/en)
 
 # Hello! 👋
 
