@@ -4,7 +4,14 @@ description: This is my GitHub Pages page
 ---
 <link rel="stylesheet" href="/assets/css/custom.css">
 
+<div class="lang-links">
+  <a href="/">Suomeksi</a>
+  <a href="/en">In English</a>
+</div>
+
+<!---
 [Suomeksi](/) | [In English](/en)
+--->
 
 # Hello! 👋
 
