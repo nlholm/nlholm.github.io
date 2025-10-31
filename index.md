@@ -4,7 +4,14 @@ description: Tämä on GitHub Pages -sivuni
 ---
 <link rel="stylesheet" href="/assets/css/custom.css">
 
+<div class="lang-links">
+  <a href="/">Suomeksi</a>
+  <a href="/en">In English</a>
+</div>
+
+<!---
 [Suomeksi](/) | [In English](/en)
+--->
 
 # Hei! 👋
 
