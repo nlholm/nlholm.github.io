@@ -1,0 +1,15 @@
+.lang-links a {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-right: 8px;
+
+  background: #444;
+  color: #fff !important;
+  text-decoration: none;
+
+  border-radius: 8px;
+}
+
+.lang-links a:hover {
+  background: #666;
+}
