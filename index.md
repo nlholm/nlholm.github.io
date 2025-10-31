@@ -3,6 +3,8 @@ title: Tervetuloa sivuilleni!
 description: Tämä on GitHub Pages -sivuni
 ---
 
+[🇫🇮 Suomi](/) | [🇬🇧 English](/en)
+
 # Hei! 👋
 
 Tervetuloa sivulleni!
@@ -35,7 +37,7 @@ Tykkään kehittää itseäni teknologian parissa. Täällä voit tutustua proje
 
 ## 📂 Projektit
 
-Täällä muutamia esimerkkejä projekteistani: [nlholm](https://github.com/nlholm).
+Täällä muutamia esimerkkejä projekteistani: 🔗 **[nlholm](https://github.com/nlholm)**
 
 <!---
 
@@ -51,11 +53,8 @@ Täällä muutamia esimerkkejä projekteistani: [nlholm](https://github.com/nlho
 
 ## 📫 Yhteys
 
-Voit ottaa minuun yhteyttä esimerkiksi GitHubin kautta:
-
-🔗 **[nlholm](https://github.com/nlholm)**
-
-Tai sähköpostitse ninxbox @ gmail.com
+- GitHub: **[nlholm](https://github.com/nlholm)**
+- Email: ninxbox @ gmail.com
 
 ---
 
