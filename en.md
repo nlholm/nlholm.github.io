@@ -1,7 +1,9 @@
+<!---
 ---
 title: Welcome to my page!
 description: This is my GitHub Pages page
 ---
+--->
 <link rel="stylesheet" href="/assets/css/custom.css">
 
 <div class="lang-links">
