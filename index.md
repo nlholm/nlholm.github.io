@@ -55,3 +55,5 @@ Tai sähköpostitse ninxbox @ gmail.com
 ---
 
 Kiitos, kun vierailit sivuillani! 😊
+
+![nlholm](./images/nlholm_profilepictue.png)
