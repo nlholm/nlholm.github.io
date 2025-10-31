@@ -1,3 +1,8 @@
+---
+title: Tervetuloa sivuilleni!
+description: Tämä on GitHub Pages -sivuni
+---
+
 # Hei! 👋
 
 Tervetuloa sivulleni!
