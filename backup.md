@@ -1,3 +1,7 @@
+<!---
+
+index.html kommentoituna
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -9,3 +13,5 @@
     <p>Tämä on GitHub Pages -sivuni.</p>
   </body>
 </html>
+
+--->
