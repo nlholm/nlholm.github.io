@@ -30,7 +30,7 @@ Tykkään kehittää itseäni teknologian parissa. Täällä voit tutustua proje
 
 ## 📂 Projektit
 
-Täällä muutamia esimerkkejä projekteistani: https://github.com/nlholm www.google.com
+Täällä muutamia esimerkkejä projekteistani: [nlholm](https://github.com/nlholm).
 
 <!---
 
