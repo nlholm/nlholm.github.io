@@ -34,8 +34,8 @@ I am a Business IT student at Haaga-Helia UAS, specializing in ICT Infrastructur
 
 ## 📜 Certifications
 
-- **Microsoft**: Build great solutions with the Microsoft Azure Well-Architected Framework.
-- **Cisco** : CCNAv7: Introduction to Networks.
+- **Microsoft**: Build great solutions with the Microsoft Azure Well-Architected Framework. 04/2025.
+- **Cisco**: CCNAv7: Introduction to Networks. 01/2025.
 
 ---
 
