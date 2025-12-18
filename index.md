@@ -28,7 +28,7 @@ I am a Business IT student at Haaga-Helia UAS, specializing in ICT Infrastructur
 
 ### 🏢 Enterprise Platforms
 
-- **Experience**: SAP TM, Salesforce CRM, SAP CRM, Qlik Sense.
+- **Experience**: SAP TM, SAP CRM, Salesforce CRM, eCommerce Platforms (Key User/Trainer), Proprietary ERP Systems, Qlik Sense.
 
 ---
 
