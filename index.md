@@ -9,7 +9,7 @@ I am a Business IT student at Haaga-Helia UAS, specializing in ICT Infrastructur
 ## 🚀 The Journey
 
 - **The Background**: I spent 10+ years in international logistics, rising from operations to Key Account Management.
-- **The Pivot**: As a "Key User" for global ERP and CRM systems, I realized I wanted to build and maintain the systems, not just use them.
+- **The Pivot**: As a Trainer and Key User for global ERP and CRM systems, I realized I wanted to build and maintain the systems, not just use them.
 - **The Goal**: I am currently seeking a Summer 2026 IT Internship in Cloud, Infra, Consulting or System Administration.
 
 ---
