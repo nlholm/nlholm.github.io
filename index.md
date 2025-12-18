@@ -1,6 +1,5 @@
 # Hi, I'm Niina! 👋
 
-
 I am a Business IT student at Haaga-Helia UAS, specializing in ICT Infrastructures and Cloud Services. With over a decade of experience in global logistics, I am now bridging my commercial seniority with a deep dive into modern technology.
 
 ---
@@ -61,7 +60,7 @@ I maintain a private testing environment using **VirtualBox** to deepen my Linux
 
 ## 📫 Let's Connect!
 
-- **LinkedIn**: (www.linkedin.com/in/niina-holmroos)
+- **LinkedIn**: www.linkedin.com/in/niina-holmroos
 - **GitHub**: [nlholm](https://github.com/nlholm)
 - **Email**: niina.holmroos @ gmail.com
 
@@ -69,5 +68,5 @@ I maintain a private testing environment using **VirtualBox** to deepen my Linux
 
 Thanks for visiting! 😊
 
-<img src="./images/nlholm_profile_picture.png" width="200" style="border-radius:50%"/>
+<img src="./images/nlholm_profile_picture.png" width="200" style="border-radius:50%; display: block; margin-left: auto; margin-right: auto;"/>
 
