@@ -1,15 +1,3 @@
-<!---
-<link rel="stylesheet" href="/assets/css/custom.css">
-
-<div class="lang-links">
-  <a href="/">Suomeksi</a>
-  <a href="/en">In English</a>
-</div>
-
-Altenative style:
-[Suomeksi](/) | [In English](/en)
---->
-
 # Hi, I'm Niina! 👋
 
 **Commercial Professional | Aspiring Cloud & Business IT Expert**
@@ -74,7 +62,7 @@ I maintain a private testing environment using **VirtualBox** to deepen my Linux
 
 ## 📫 Let's Connect!
 
-- **LinkedIn**: linkedin.com/in/niina-holmroos
+- **LinkedIn**: (www.linkedin.com/in/niina-holmroos)
 - **GitHub**: [nlholm](https://github.com/nlholm)
 - **Email**: niiina.holmroos @ gmail.com
 
