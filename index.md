@@ -1,3 +1,4 @@
+<!---
 <link rel="stylesheet" href="/assets/css/custom.css">
 
 <div class="lang-links">
@@ -5,64 +6,81 @@
   <a href="/en">In English</a>
 </div>
 
-<!---
+Altenative style:
 [Suomeksi](/) | [In English](/en)
 --->
 
-# Hei! 👋
+# Hi, I'm Niina! 👋
 
-Tervetuloa sivulleni!
+**Commercial Professional | Aspiring Cloud & Business IT Expert**
 
-Olen **nlholm**, ja tämä on henkilökohtainen esittelysivuni GitHub Pagesissa.  
-
-Tykkään kehittää itseäni teknologian parissa. Täällä voit tutustua projekteihini, osaamiseeni ja kiinnostuksen kohteisiini.
+I am a Business IT student at Haaga-Helia UAS, specializing in ICT Infrastructures and Cloud Services. With over a decade of experience in global logistics, I am now bridging my commercial seniority with a deep dive into modern technology.
 
 ---
 
-## ✨ Kuka olen?
+## 🚀 The Journey
 
-- 👩‍💻 Ammatti / rooli: IT-tradenomi-opiskelija, suntautuminen ICT infra ja pilvipalvelut
-- 🌍 Sijainti: Helsinki
-- 🎯 Kiinnostuksen kohteet:
-  - Teknologia
-  - Ohjelmointi
-  - Jatkuva oppiminen
-  - Liiketoiminnan ja IT:n yhdistäminen
+- **The Background**: I spent 10+ years in international logistics, rising from operations to Key Account Management.
+- **The Pivot**: As a "Key User" for global ERP and CRM systems, I realized I wanted to build and maintain the systems, not just use them.
+- **The Goal**: I am currently seeking a Summer 2026 IT Internship in Cloud, Infra, Consulting or System Administration.
 
 ---
 
-## 🛠 Osaaminen
+## 🛠 Technical Proficiencies
 
-- HTML, CSS, JavaScript, Java
-- Python
-- Git & GitHub
+### ☁️ Cloud & Infrastructure
 
----
+- **Platforms**: Azure, AWS.
+- **Operating Systems**: Linux (Debian/Ubuntu), Windows Server (AD/DNS).
+- **Automation (IaC)**: SaltStack, Vagrant.
+- **Networking**: TCP/IP fundamentals (CCNA-level).
 
-## 📂 Projektit
+### 💻 Development & Data
 
-Täällä muutamia esimerkkejä projekteistani: 🔗 **[nlholm](https://github.com/nlholm)**
+- **Languages**: Python, SQL, Java, JavaScript.
+- **Tools**: Docker, Docker Compose, Git, GitHub.
 
-<!---
+### 🏢 Enterprise Platforms
 
-| Projekti | Kuvaus | Linkki |
-|----------|--------|--------|
-| Projekti 1 | Lyhyt kuvaus | [Repo](#) |
-| Projekti 2 | Lyhyt kuvaus | [Repo](#) |
-| Projekti 3 | Lyhyt kuvaus | [Repo](#) |
-
---->
+- **Experience**: SAP TM, Salesforce CRM, SAP CRM, Qlik Sense.
 
 ---
 
-## 📫 Yhteys
+## 📜 Certifications
 
-- GitHub: **[nlholm](https://github.com/nlholm)**
-- Email: ninxbox @ gmail.com
+- **Microsoft**: Build great solutions with the Microsoft Azure Well-Architected Framework.
+- **Cisco** : CCNAv7: Introduction to Networks.
 
 ---
 
-Kiitos, kun vierailit sivuillani! 😊
+## 📂 Projects
 
-<img src="./images/nlholm_profilepicture.png" width="200" style="border-radius:50%"/>
+### 🐳 Docker & SaltStack: Infrastructure as Code (IaC)
+
+A hands-on demonstration of automated infrastructure. This project provisions a virtual environment using **Vagrant** and **SaltStack** to deploy a cluster of **Docker** containers behind an **Nginx** load balancer.
+
+- **Key Features**: Idempotent provisioning, multi-container orchestration, and reverse proxy configuration.
+- **Tech**: SaltStack, Docker, Vagrant, Nginx, Linux.
+- 🔗 [Check out the Repo](https://github.com/nlholm/docker-demo)
+
+### 🏗️ Technical Sandbox: Linux Home Lab
+
+I maintain a private testing environment using **VirtualBox** to deepen my Linux administration skills.
+
+- **Focus**: Debian server configuration, SSH management, web servers (Apache, Nginx) setups, and command-line proficiency.
+- **Why?** This is my playground for breaking things, fixing them, and learning how systems work under the hood.
+
+---
+
+## 📫 Let's Connect!
+
+- **LinkedIn**: linkedin.com/in/niina-holmroos
+- **GitHub**: [nlholm](https://github.com/nlholm)
+- **Email**: niiina.holmroos @ gmail.com
+
+---
+
+Thanks for visiting! 😊
+
+<img src="./images/nlholm_profile_picture.png" width="200" style="border-radius:50%"/>
 
