@@ -62,7 +62,7 @@ I maintain a private testing environment using **VirtualBox** to deepen my Linux
 
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Niina--Holmroos-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/niina-holmroos)
 - **GitHub**: [nlholm](https://github.com/nlholm)
-- **Email**: [niina.holmroos @ gmail.com](mailto:niina.holmroos@gmail.com)
+- **Email**: niina.holmroos @ gmail.com
 
 ---
 
