@@ -1,0 +1,11 @@
+--- --- @import "{{ site.theme }}";
+
+// Piilotetaan Slate-teeman automaattiset latauspainikkeet
+.btn {
+    display: none !important;
+}
+
+// Jos haluat piilottaa koko painikeosion (suositeltu)
+header .buttons {
+    display: none !important;
+}
