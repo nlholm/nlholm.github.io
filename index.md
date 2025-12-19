@@ -1,6 +1,6 @@
 # Hi, I'm Niina! 👋
 
-I am a Business IT student at Haaga-Helia UAS in Helsinki, specializing in ICT Infrastructures and Cloud Services. With over a decade of experience in global logistics, I am now bridging my commercial seniority with a deep dive into modern technology.
+Based in Helsinki, Finland, I am a Business IT student at Haaga-Helia UAS, specializing in ICT Infrastructures and Cloud Services. With over a decade of experience in global logistics, I am now bridging my commercial seniority with a deep dive into modern technology.
 
 ---
 
