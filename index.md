@@ -46,7 +46,7 @@ I am a Business IT student at Haaga-Helia UAS, specializing in ICT Infrastructur
 A hands-on demonstration of automated infrastructure. This project provisions a virtual environment using **Vagrant** and **SaltStack** to deploy a cluster of **Docker** containers behind an **Nginx** load balancer.
 
 - **Key Features**: Idempotent provisioning, multi-container orchestration, and reverse proxy configuration.
-- **Tech**: SaltStack, Docker, Vagrant, Nginx, Linux.
+- **Tech**: Vagrnant, SaltStack, Docker, Nginx, Linux.
 - 🔗 [Check out the Repo](https://github.com/nlholm/docker-demo)
 
 ### 🏗️ Technical Sandbox: Linux Home Lab
