@@ -64,5 +64,5 @@ Täällä muutamia esimerkkejä projekteistani: 🔗 **[nlholm](https://github.c
 
 Kiitos, kun vierailit sivuillani! 😊
 
-<img src="./images/nlholm_profilepicture.png" width="200" style="border-radius:50%"/>
+<img src="./images/nlholm_profile_picture.png" width="200" style="border-radius:50%"/>
 
