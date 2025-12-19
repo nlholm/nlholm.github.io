@@ -1,3 +1,3 @@
 # nlholm.github.io
 
-Please visit: :star: https://nlholm.github.io/ :star:
+Please visit here to see my Technical Portfolio: :star: https://nlholm.github.io/ :star:
