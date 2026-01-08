@@ -56,15 +56,9 @@ A comprehensive Infrastructure as Code (IaC) project demonstrating modern server
 A hands-on demonstration of automated infrastructure. This project provisions a virtual environment using **Vagrant** and **SaltStack** to deploy a cluster of **Docker** containers behind an **Nginx** load balancer.
 
 - **Key Features**: Idempotent provisioning, multi-container orchestration, and reverse proxy configuration.
-<<<<<<< HEAD
 - **Outcome**: Deploys a scalable, load-balanced web cluster where traffic is automatically distributed across multiple container instances.
-- **Tech**: SaltStack, Docker, Vagrant, Nginx, Linux.
-=======
 - **Tech**: Vagrant, SaltStack, Docker, Nginx, Linux.
->>>>>>> 7800e0808ec87b6f49d981452b5a6fc9f337b367
 - 🔗 [Check out the Repo](https://github.com/nlholm/docker-demo)
-
-### 🏗️ Technical Sandbox: Linux Home Lab
 
 ### 🏗️ Technical Sandbox: Linux Home Lab
 
