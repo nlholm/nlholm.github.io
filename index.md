@@ -46,7 +46,7 @@ Based in Helsinki, Finland, I am a Business IT student at Haaga-Helia UAS, speci
 
 A comprehensive Infrastructure as Code (IaC) project demonstrating modern server automation. This project uses **Ansible** to provision fully functional WordPress environments inside isolated **Incus** system containers.
 
-- **Key Features**: Modular Ansible Roles, Secret management with Ansible Vault, Dynamic configuration via Jinja2 templates, and "Mass Provisioning" capability.
+- **Key Features**: Modular Ansible Roles, secret management with Ansible Vault, dynamic configuration via Jinja2 templates, and "mass provisioning" capability.
 - **Outcome**: Capable of deploying secure, production-ready web servers with a single command.
 - **Tech**: Linux (Debian 12), Incus (LXC), Ansible, Nginx, MariaDB, PHP-FPM, WordPress.
 - 🔗 [Check out the Repo](https://github.com/nlholm/incus-ansible-lemp-demo)
