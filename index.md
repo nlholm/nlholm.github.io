@@ -1,6 +1,6 @@
 # Hi, I'm Niina! 👋
 
-I am a Business IT student at Haaga-Helia UAS, specializing in ICT Infrastructures and Cloud Services. With over a decade of experience in global logistics, I am now bridging my commercial seniority with a deep dive into modern technology.
+Based in Helsinki, Finland, I am a Business IT student at Haaga-Helia UAS, specializing in ICT Infrastructures and Cloud Services. With over a decade of experience in global logistics, I am now bridging my commercial seniority with a deep dive into modern technology.
 
 ---
 
@@ -29,14 +29,14 @@ I am a Business IT student at Haaga-Helia UAS, specializing in ICT Infrastructur
 
 ### 🏢 Enterprise Platforms
 
-- **Experience**: SAP TM, Salesforce CRM, SAP CRM, Qlik Sense.
+- **Experience**: SAP TM, SAP CRM, Salesforce CRM, eCommerce Platforms (Key User/Trainer), Proprietary ERP Systems, Qlik Sense.
 
 ---
 
 ## 📜 Certifications
 
-- **Microsoft**: Build great solutions with the Microsoft Azure Well-Architected Framework.
-- **Cisco** : CCNAv7: Introduction to Networks.
+- **Microsoft**: Build great solutions with the Microsoft Azure Well-Architected Framework. 04/2025.
+- **Cisco**: CCNAv7: Introduction to Networks. 01/2025.
 
 ---
 
@@ -56,8 +56,12 @@ A comprehensive Infrastructure as Code (IaC) project demonstrating modern server
 A hands-on demonstration of automated infrastructure. This project provisions a virtual environment using **Vagrant** and **SaltStack** to deploy a cluster of **Docker** containers behind an **Nginx** load balancer.
 
 - **Key Features**: Idempotent provisioning, multi-container orchestration, and reverse proxy configuration.
+<<<<<<< HEAD
 - **Outcome**: Deploys a scalable, load-balanced web cluster where traffic is automatically distributed across multiple container instances.
 - **Tech**: SaltStack, Docker, Vagrant, Nginx, Linux.
+=======
+- **Tech**: Vagrant, SaltStack, Docker, Nginx, Linux.
+>>>>>>> 7800e0808ec87b6f49d981452b5a6fc9f337b367
 - 🔗 [Check out the Repo](https://github.com/nlholm/docker-demo)
 
 ### 🏗️ Technical Sandbox: Linux Home Lab
@@ -73,7 +77,7 @@ I maintain a versatile testing environment using **VirtualBox** and **WSL2** (Wi
 
 ## 📫 Let's Connect!
 
-- **LinkedIn**: www.linkedin.com/in/niina-holmroos
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/niina-holmroos)
 - **GitHub**: [nlholm](https://github.com/nlholm)
 - **Email**: niina.holmroos @ gmail.com
 
