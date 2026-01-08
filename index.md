@@ -17,14 +17,15 @@ I am a Business IT student at Haaga-Helia UAS, specializing in ICT Infrastructur
 ### ☁️ Cloud & Infrastructure
 
 - **Platforms**: Azure, AWS.
+- **Virtualization**: Incus (System Containers), Docker.
 - **Operating Systems**: Linux (Debian/Ubuntu), Windows Server (AD/DNS).
-- **Automation (IaC)**: SaltStack, Vagrant.
+- **Automation (IaC)**: SaltStack, Ansible, Vagrant.
 - **Networking**: TCP/IP fundamentals (CCNA-level).
 
 ### 💻 Development & Data
 
 - **Languages**: Python, SQL, Java, JavaScript.
-- **Tools**: Docker, Docker Compose, Git, GitHub.
+- **Tools**: VSCode, Docker, Docker Compose, Git, GitHub.
 
 ### 🏢 Enterprise Platforms
 
@@ -41,19 +42,31 @@ I am a Business IT student at Haaga-Helia UAS, specializing in ICT Infrastructur
 
 ## 📂 Projects
 
+### 🤖 Incus & Ansible: Automated LEMP Stack Deployment
+
+A comprehensive Infrastructure as Code (IaC) project demonstrating modern server automation. This project uses **Ansible** to provision fully functional WordPress environments inside isolated **Incus** system containers.
+
+- **Key Features**: Modular Ansible Roles, Secret management with Ansible Vault, Dynamic configuration via Jinja2 templates, and "Mass Provisioning" capability.
+- **Outcome**: Capable of deploying secure, production-ready web servers with a single command.
+- **Tech**: Linux (Debian 12), Incus (LXC), Ansible, Nginx, MariaDB, PHP-FPM, WordPress.
+- 🔗 [Check out the Repo](https://github.com/nlholm/incus-ansible-lemp-demo)
+
 ### 🐳 Docker & SaltStack: Infrastructure as Code (IaC)
 
 A hands-on demonstration of automated infrastructure. This project provisions a virtual environment using **Vagrant** and **SaltStack** to deploy a cluster of **Docker** containers behind an **Nginx** load balancer.
 
 - **Key Features**: Idempotent provisioning, multi-container orchestration, and reverse proxy configuration.
+- **Outcome**: Deploys a scalable, load-balanced web cluster where traffic is automatically distributed across multiple container instances.
 - **Tech**: SaltStack, Docker, Vagrant, Nginx, Linux.
 - 🔗 [Check out the Repo](https://github.com/nlholm/docker-demo)
 
 ### 🏗️ Technical Sandbox: Linux Home Lab
 
-I maintain a private testing environment using **VirtualBox** to deepen my Linux administration skills.
+### 🏗️ Technical Sandbox: Linux Home Lab
 
-- **Focus**: Debian server configuration, SSH management, web servers (Apache, Nginx) setups, and command-line proficiency.
+I maintain a versatile testing environment using **VirtualBox** and **WSL2** (Windows Subsystem for Linux) to deepen my Linux administration skills.
+
+- **Focus**: Debian server configuration, SSH management, web servers (Apache, Nginx), and integrating Linux workflows with Windows tools.
 - **Why?** This is my playground for breaking things, fixing them, and learning how systems work under the hood.
 
 ---
