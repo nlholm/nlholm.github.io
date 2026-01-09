@@ -51,7 +51,7 @@ A comprehensive Infrastructure as Code (IaC) project demonstrating modern server
 - **Tech**: Linux (Debian 12), Incus (LXC), Ansible, Nginx, MariaDB, PHP-FPM, WordPress.
 - 🔗 [Check out the Repo](https://github.com/nlholm/incus-ansible-lemp-demo)
 
-### 🐳 Docker & SaltStack: Infrastructure as Code (IaC)
+### 🐳 Docker & SaltStack: Automated Load-Balanced Web Cluster
 
 A hands-on demonstration of automated infrastructure. This project provisions a virtual environment using **Vagrant** and **SaltStack** to deploy a cluster of **Docker** containers behind an **Nginx** load balancer.
 
