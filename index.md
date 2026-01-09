@@ -57,7 +57,7 @@ A hands-on demonstration of automated infrastructure. This project provisions a 
 
 - **Key Features**: Idempotent provisioning, multi-container orchestration, and reverse proxy configuration.
 - **Outcome**: Deploys a scalable, load-balanced web cluster where traffic is automatically distributed across multiple container instances.
-- **Tech**: Vagrant, SaltStack, Docker, Nginx, Linux.
+- **Tech**: Linux, Vagrant, SaltStack, Docker, Nginx.
 - 🔗 [Check out the Repo](https://github.com/nlholm/docker-demo)
 
 ### 🏗️ Technical Sandbox: Linux Home Lab
