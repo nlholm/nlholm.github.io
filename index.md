@@ -1,14 +1,14 @@
 # Hi, I'm Niina! 👋
 
-Based in Helsinki, Finland, I am Niina Holmroos, a Business IT student at Haaga-Helia UAS, specializing in ICT Infrastructures and Cloud Services. With over a decade of experience in global logistics, I am now bridging my commercial seniority with a deep dive into modern technology.
+Based in Helsinki, Finland, I'm Niina Holmroos, a Business IT student at Haaga-Helia UAS, specialising in ICT Infrastructures and Cloud Services. With over a decade of experience in global logistics, I'm now bridging my commercial seniority with a deep dive into modern technology.
 
 ---
 
 ## 🚀 The Journey
 
 - **The Background**: I spent 10+ years in international logistics, rising from operations to Key Account Management.
-- **The Pivot**: As a Trainer and Key User for global ERP and CRM systems, I realized I wanted to build and maintain the systems, not just use them.
-- **The Goal**: I am currently seeking a Summer 2026 IT Internship in Cloud, Infra, Consulting or System Administration.
+- **The Pivot**: As a Trainer and Key User for global ERP and CRM systems, I realised I wanted to build and maintain the systems, not just use them.
+- **The Goal**: I'm currently seeking a Summer 2026 IT Internship in Cloud, Infra, Consulting or System Administration.
 
 ---
 
@@ -29,7 +29,7 @@ Based in Helsinki, Finland, I am Niina Holmroos, a Business IT student at Haaga-
 
 ### 🏢 Enterprise Platforms
 
-- **Experience**: SAP TM, SAP CRM, Salesforce CRM, eCommerce Platforms (Key User/Trainer), Proprietary ERP Systems, Qlik Sense.
+- **Experience**: SAP TM, SAP CRM, Salesforce CRM, eCommerce Platforms (Key User/Trainer), Proprietary ERP Systems, Qlik Sense, Power BI.
 
 ---
 
@@ -46,8 +46,8 @@ Based in Helsinki, Finland, I am Niina Holmroos, a Business IT student at Haaga-
 
 A comprehensive Infrastructure as Code (IaC) project demonstrating modern server automation. This project uses **Ansible** to provision fully functional WordPress environments inside isolated **Incus** system containers.
 
-- **Key Features**: Modular Ansible Roles, secret management with Ansible Vault, dynamic configuration via Jinja2 templates, and "mass provisioning" capability.
-- **Outcome**: Capable of deploying secure, production-ready web servers with a single command.
+- **Key Features**: Modular Ansible Roles, secret management with Ansible Vault, dynamic configuration via Jinja2 templates, and mass provisioning capability.
+- **Outcome**: Provisions secure, production-ready web servers with a single command.
 - **Tech**: Linux (Debian 12), Incus (LXC), Ansible, Nginx, MariaDB, PHP-FPM, WordPress.
 - 🔗 [Check out the Repo](https://github.com/nlholm/incus-ansible-lemp-demo)
 
