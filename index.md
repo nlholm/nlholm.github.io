@@ -8,7 +8,7 @@ Based in Helsinki, Finland, I'm Niina Holmroos, a Business IT student at Haaga-H
 
 - **The Background**: I spent 10+ years in international logistics, rising from operations to Key Account Management.
 - **The Pivot**: As a Trainer and Key User for global ERP and CRM systems, I realised I wanted to build and maintain the systems, not just use them.
-- **The Goal**: I'm currently seeking a Summer 2026 IT Internship in Cloud, Infra, Consulting or System Administration.
+- **The Goal**: I'm currently seeking an entry level position in Cloud, Infra, Consulting or System Administration.
 
 ---
 
