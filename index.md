@@ -19,7 +19,7 @@ Based in Helsinki, Finland, I'm Niina Holmroos, a Business IT student at Haaga-H
 - **Platforms**: Azure, AWS.
 - **Virtualization**: Incus (System Containers), Docker.
 - **Operating Systems**: Linux (Debian/Ubuntu), Windows Server (AD/DNS).
-- **Automation (IaC)**: SaltStack, Ansible, Vagrant.
+- **Automation (IaC)**: Terraform, OpenTofu, SaltStack, Ansible, Vagrant.
 - **Networking**: TCP/IP fundamentals (CCNA-level).
 
 ### 💻 Development & Data
